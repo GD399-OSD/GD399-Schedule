@@ -39,7 +39,7 @@ By libre Graphics we mean "free, Libre and Open Source tools for creative uses".
   - [FontForge](https://fontforge.github.io/en-US/)
   - [RoundCube](https://roundcube.net/)
   - [RawGraphs](http://rawgraphs.io/)
-  - Free Universal Construction Kit (http://www.flong.com/projects/free-universal-construction-kit/)
+  - [Free Universal Construction Kit] (http://www.flong.com/projects/free-universal-construction-kit/)
   - (we can add all of your found things to this list)
 
 - [Designers can Open Source](http://opendesign.foundation/articles/designers-can-open-source-session-video/)
