@@ -42,6 +42,7 @@ By libre Graphics we mean "free, Libre and Open Source tools for creative uses".
   - [Free Universal Construction Kit](http://www.flong.com/projects/free-universal-construction-kit/)
   - (we can add all of your found things to this list)
   - [Drawbot](http://www.drawbot.com/)
+  - [BonsaiJS](http://bonsaijs.org/)
 
 - [Designers can Open Source](http://opendesign.foundation/articles/designers-can-open-source-session-video/)
 
