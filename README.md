@@ -41,6 +41,7 @@ By libre Graphics we mean "free, Libre and Open Source tools for creative uses".
   - [RawGraphs](http://rawgraphs.io/)
   - [VPT7](https://hcgilje.wordpress.com/vpt/) [(Example)](https://www.youtube.com/watch?v=6w5-AhawgOU)
   - [Painting With Light](http://pwl.bigfug.com/) [(Example)](https://www.youtube.com/watch?v=jNTdks3WitI)
+  - [BonsaiJS](http://bonsaijs.org/)
   - (we can add all of your found things to this list)
 
 - [Designers can Open Source](http://opendesign.foundation/articles/designers-can-open-source-session-video/)
