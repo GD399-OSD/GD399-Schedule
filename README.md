@@ -66,8 +66,8 @@ By libre Graphics we mean "free, Libre and Open Source tools for creative uses".
 
 **Wk05 Feb 16**
 
-- Discuss points from readings?
-- Visit OpenWorks, talk with Will Holman.
+- 10am Visit OpenWorks, talk with Will Holman. (leave 9:15 or so to walk over in time?)
+- After back: Discuss points from readings, and anything we learned from Will
 - Homework:
 
   1. Read _Vernacular: How Buildings Learn From Each Other_ excerpted from _How Buildings Learn_. (if you liked this chapter, the [BBC did a whole 6 part series of videos on How Buildings Learn](https://www.youtube.com/watch?v=AvEqfg2sIH0) (from Stewart Brand's youtube))
@@ -81,6 +81,7 @@ By libre Graphics we mean "free, Libre and Open Source tools for creative uses".
 
 - Discuss points from readings?
 - Talk with Karen Shea.
+- [Eyeo 2013 - A Conversation With Toolmakers](https://vimeo.com/70833521)
 - Library checkin.
 - Homework:
 
@@ -93,6 +94,8 @@ By libre Graphics we mean "free, Libre and Open Source tools for creative uses".
 
 **Wk07 Mar 02**
 
+- Discuss readings
+- [BRIAN ENO & BJARKE INGELS - ON INSTRUMENTS OF CHANGE (Live from Heartland Festival 2016)](https://www.youtube.com/watch?v=aBG8t6jDWuA)
 - Homework:
 
   1. Read _Giving Things Away is Hard Work: Three Creative Commons Studies_
